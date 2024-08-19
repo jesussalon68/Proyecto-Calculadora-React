@@ -1,0 +1,14 @@
+* {
+  font-family: sans-serif;
+}
+input,
+button {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+}
+input {
+  width: 200px; /* Ajusta el ancho según sea necesario */
+}
+
